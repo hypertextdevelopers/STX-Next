@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EACI","file":"app.c3f9f951.css","sourceRoot":"..\\src","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nbody{\r\n    background-color: #e7e7e7;\r\n}"]}
