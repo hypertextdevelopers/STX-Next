@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
     "parcel": "^1.12.3",
     "sass": "^1.17.4"
   }
